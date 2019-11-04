@@ -2,10 +2,15 @@ body {
     width: 800px;
     margin: 0 auto;
     font-family: 'Times New Roman', Times, serif;
-};
+}
 
 .container {
     width: 600px;
     margin: 0 auto;
     padding: 30px;
-};
+}
+
+.ghost-input {
+    width: 100%;
+    padding: 10px 15px;
+}
